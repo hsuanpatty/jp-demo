@@ -851,9 +851,10 @@ h2[class*="title-"] {
   }
 
   h2[class*="title-"] {
-    font-size: 32px; 
+    font-size: 30px; 
     white-space:nowrap;
     margin-top: 10px;
+    padding: 30px 110px 30px 100px;
   }
 
   .mitsu-card-img img {
