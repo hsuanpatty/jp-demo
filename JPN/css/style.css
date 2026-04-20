@@ -720,9 +720,9 @@ p {
 h2[class*="title-"] {
   position: relative;
   width: fit-content;
-  padding: 30px 140px 30px 130px;
+  padding: 30px 140px 30px 125px;
   margin: 40px auto 0;
-  font-size: clamp(24px, 4vw, 42px);
+  font-size: clamp(24px, 4vw, 38px);
   font-weight: 800;
   color: #fff;
   text-align: center;
