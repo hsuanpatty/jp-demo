@@ -847,6 +847,7 @@ h2[class*="title-"] {
   h2[class*="title-"] {
     font-size: 32px; 
     white-space:nowrap;
+    margin-top: 10px;
   }
 
   .mitsu-card-img img {
